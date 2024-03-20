@@ -1,0 +1,24 @@
+body{
+    background:white;
+} 
+th{
+    background:greenyellow;
+}
+td:nth-child(5n+1){
+    background:#befb9861;
+}
+td:nth-child(5n+2){
+    background:#befb98a7;
+}
+td:nth-child(5n+3){
+    background:#befb9861;
+}
+td:nth-child(5n+4){
+    background:#befb98a7;
+}
+td:nth-child(5n+5){
+    background:#befb9861;
+}
+td:nth-child(5n+6){
+    background:#befb98a7;
+}
